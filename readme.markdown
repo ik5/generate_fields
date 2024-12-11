@@ -9,3 +9,8 @@ formats:
   4. Multipart form data format.
 
 The test is made to provide me some examples on doing so when I require the reference itself.
+
+# License
+
+WTFPL – Do What the Fuck You Want to Public License
+
